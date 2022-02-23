@@ -1,0 +1,10 @@
+w25qxx.c:11:9:W25Qx_Init	16	static
+w25qxx.c:26:13:W25Qx_Reset	16	static
+w25qxx.c:41:16:W25Qx_GetStatus	16	static
+w25qxx.c:69:9:W25Qx_WriteEnable	16	static
+w25qxx.c:105:6:W25Qx_Read_ID	24	static
+w25qxx.c:130:9:W25Qx_Get_Parameter	24	static
+w25qxx.c:158:9:W25Qx_Read	32	static
+w25qxx.c:187:9:W25Qx_Write	48	static
+w25qxx.c:263:9:W25Qx_Erase_Block	24	static
+w25qxx.c:299:9:W25Qx_Erase_Chip	16	static

@@ -1,0 +1,6 @@
+camera.c:47:9:Camera_WriteReg	40	static
+camera.c:62:9:Camera_ReadReg	32	static
+camera.c:75:9:Camera_WriteRegList	24	static
+camera.c:90:9:Camera_read_id	24	static
+camera.c:104:6:Camera_Reset	24	static
+camera.c:114:6:Camera_Init_Device	16	static
